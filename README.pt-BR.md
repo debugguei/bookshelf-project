@@ -1,9 +1,3 @@
-
----
-
-## 📄 `README.pt-BR.md` (versão em português)
-
-```markdown
 [← Voltar para a seleção de idioma](./README.md)
 
 # Booksheelf Social Network
