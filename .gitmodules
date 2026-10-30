@@ -1,3 +1,13 @@
 [submodule "prjDevMob"]
 	path = prjDevMob
 	url = https://github.com/Vininemetp04/prjDevMob
+
+[submodule "repo-comp-distribuida"]
+    path = repo-comp-distribuida
+    url = https://github.com/debugguei/repo-comp-distribuida.git
+
+[submodule "repo-processamento-imagem"]
+    path = repo-processamento-imagem
+    url = https://github.com/debugguei/repo-processamento-imagem.git
+
+
